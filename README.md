@@ -5,9 +5,18 @@
   winget install -e --id GoLang.Go
   ```
 * **Linux**
-  ```bash
-  sudo apt-get install golang-go
-  ```
+  * Debian
+    ```bash
+    sudo apt-get update && sudo apt-get install golang -y  && go version 
+    ```
+  * Fedora
+    ```bash
+    sudo dnf upgrade --refresh && sudo dnf install golang -y  && go version
+    ```
+  * SUSE (openSUSE)
+    ```bash
+    sudo zypper refresh && sudo zypper install go -y && go version
+    ```
 
 ## Learning Resources
 * [https://gobyexample.com/](https://gobyexample.com/)
