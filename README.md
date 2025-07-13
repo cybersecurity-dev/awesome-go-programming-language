@@ -7,15 +7,15 @@
 * **Linux**
   * Debian
     ```bash
-    sudo apt-get update && sudo apt-get install golang -y  && go version 
+    sudo apt-get update && sudo apt-get install -y golang && go version 
     ```
   * Fedora
     ```bash
-    sudo dnf upgrade --refresh && sudo dnf install golang -y  && go version
+    sudo dnf upgrade --refresh && sudo dnf install -y golang && go version
     ```
   * SUSE (openSUSE)
     ```bash
-    sudo zypper refresh && sudo zypper install go -y && go version
+    sudo zypper refresh && sudo zypper install -y go && go version
     ```
 
 ## Learning Resources
