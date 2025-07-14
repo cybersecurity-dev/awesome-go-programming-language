@@ -9,20 +9,20 @@
 </p>
 
 ## Installation Steps
-* **Windows**
+* [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
   ```powershell
   winget install -e --id GoLang.Go
   ```
-* **Linux**
-  * Debian
+* [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+  * [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
     ```bash
     sudo apt-get update && sudo apt-get install -y golang && go version 
     ```
-  * Fedora
+  * [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
     ```bash
     sudo dnf upgrade --refresh && sudo dnf install -y golang && go version
     ```
-  * SUSE (openSUSE)
+  * [![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=flat&logo=SUSE&logoColor=white)](#)
     ```bash
     sudo zypper refresh && sudo zypper install -y go && go version
     ```
