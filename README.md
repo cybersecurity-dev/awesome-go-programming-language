@@ -38,3 +38,4 @@
 
 ## Framework and Libraries
 * [Go Fiber](https://gofiber.io/) - An Express-inspired web framework written in Go.
+* [Gorm](https://gorm.io/) - The fantastic ORM library for Golang
