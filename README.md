@@ -35,3 +35,6 @@
 
 ## Learning Resources
 * [https://gobyexample.com/](https://gobyexample.com/)
+
+## Framework and Libraries
+* [Go Fiber](https://gofiber.io/) - An Express-inspired web framework written in Go.
