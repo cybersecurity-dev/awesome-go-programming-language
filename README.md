@@ -23,5 +23,6 @@
 
 ## Framework and Libraries
 * [Go Fiber](https://github.com/gofiber/fiber) - An Express-inspired [web framework](https://gofiber.io/) written in Go.
-* [Gorm](https://github.com/go-gorm/gorm/) - The fantastic [ORM library](https://gorm.io/) for Golang
 * [Gobot](https://github.com/hybridgroup/gobot/) - Golang [framework](https://gobot.io/#platforms) for robotics, drones, and the Internet of Things (IoT).
+* [Gorm](https://github.com/go-gorm/gorm/) - The fantastic [ORM library](https://gorm.io/) for Golang
+* [TinyGo](https://github.com/tinygo-org/tinygo) - Go [compiler](https://tinygo.org/) for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
