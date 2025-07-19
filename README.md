@@ -16,7 +16,7 @@
 
 ## Installation Steps
 * [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) installation steps is [here](https://github.com/cybersecurity-dev/PowerShell-Toolkit?tab=readme-ov-file#programming-language)
-* [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) installation steps is [here](https://github.com/cybersecurity-dev/Bash-Toolkit/blob/main/README.md#rust)
+* [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) installation steps is [here](https://github.com/cybersecurity-dev/Bash-Toolkit/blob/main/README.md#go)
 
 ## Learning Resources
 * [https://gobyexample.com/](https://gobyexample.com/)
