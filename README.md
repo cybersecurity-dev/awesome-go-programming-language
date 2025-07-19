@@ -26,3 +26,4 @@
 * [Gobot](https://github.com/hybridgroup/gobot/) - Golang [framework](https://gobot.io/#platforms) for robotics, drones, and the Internet of Things (IoT).
 * [Gorm](https://github.com/go-gorm/gorm/) - The fantastic [ORM library](https://gorm.io/) for Golang
 * [TinyGo](https://github.com/tinygo-org/tinygo) - Go [compiler](https://tinygo.org/) for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+* [Wails](https://github.com/wailsapp/wails) - Build beautiful cross-platform applications using [Go](https://wails.io/).
