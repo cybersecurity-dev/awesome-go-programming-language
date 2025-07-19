@@ -15,23 +15,8 @@
 </p>
 
 ## Installation Steps
-* [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
-  ```powershell
-  winget install -e --id GoLang.Go
-  ```
-* [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
-  * [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](https://www.debian.org/)
-    ```bash
-    sudo apt-get update && sudo apt-get install -y golang && go version 
-    ```
-  * [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](https://www.fedoraproject.org/)
-    ```bash
-    sudo dnf upgrade --refresh && sudo dnf install -y golang && go version
-    ```
-  * [![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=flat&logo=SUSE&logoColor=white)](https://www.opensuse.org/)
-    ```bash
-    sudo zypper refresh && sudo zypper install -y go && go version
-    ```
+* [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) installation steps is [here](https://github.com/cybersecurity-dev/PowerShell-Toolkit?tab=readme-ov-file#programming-language)
+* [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) installation steps is [here](https://github.com/cybersecurity-dev/Bash-Toolkit/blob/main/README.md#rust)
 
 ## Learning Resources
 * [https://gobyexample.com/](https://gobyexample.com/)
