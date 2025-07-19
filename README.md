@@ -37,6 +37,6 @@
 * [https://gobyexample.com/](https://gobyexample.com/)
 
 ## Framework and Libraries
-* [Go Fiber](https://gofiber.io/) - An Express-inspired web framework written in Go.
-* [Gorm](https://gorm.io/) - The fantastic ORM library for Golang
+* [Go Fiber](https://github.com/gofiber/fiber) - An Express-inspired [web framework](https://gofiber.io/) written in Go.
+* [Gorm](https://github.com/go-gorm/gorm/) - The fantastic [ORM library](https://gorm.io/) for Golang
 * [Gobot](https://github.com/hybridgroup/gobot/) - Golang [framework](https://gobot.io/#platforms) for robotics, drones, and the Internet of Things (IoT).
