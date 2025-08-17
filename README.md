@@ -1,6 +1,6 @@
-<p align="center">
+<p align="center"><a href="https://go.dev/">
   <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/golang.svg" />
-</p>
+</a></p>
 
 # Awesome [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) [Programming Language](https://go.dev/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiVJ54IJxdX405zajBI4amv5&si=aLEtwXN-zd3PRZtQ) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/golang/)
